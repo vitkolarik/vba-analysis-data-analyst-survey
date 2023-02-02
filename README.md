@@ -1,4 +1,4 @@
-# vba-practice-project
+# Data Analys Survey answers analysis with VBA
 This is my final semestral assignment for the subject "Economic modelling in a spreadsheet with VBA" I took in autumn 2022. 
 
 ## Goal
