@@ -2,7 +2,7 @@
 This is my final semestral assignment for the subject "Economic modelling in a spreadsheet with VBA" I took in autumn 2022. 
 
 ## Goal
-The goal of this work was to upload the source data from the CSV file into MS Excel and then do various changes like cleaning and preparing the data, deleting unnecessary columns, making summary tables from selected questions and then creating graphs visualizing the results. All of these changes are written in a single VBA macro and are done at the same time. 
+The goal of this work was to do various changes to the source data like cleaning and preparing the data, deleting unnecessary columns, making summary tables from selected questions and then creating graphs visualizing the results. All of these changes are written in a single VBA macro and are done at the same time. 
 This macro could be used e.g. for regular monthly analysis with a standardised form of source data. 
 
 ## Data
