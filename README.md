@@ -1,5 +1,5 @@
 # Analysis of "Data Analys Survey" with VBA
-This is my final semestral assignment for the subject "Economic modelling in a spreadsheet with VBA" I took in autumn 2022. 
+This is my final semestral assignment for the course "Economic modelling in a spreadsheet with VBA" I took at Masaryk University in autumn 2022. 
 
 ## Goal
 The goal of this work was to do various changes to the source data like cleaning and preparing the data, deleting unnecessary columns, making summary tables from selected questions and then creating graphs visualizing the results. All of these changes are written in a single VBA macro and are done at the same time. 
